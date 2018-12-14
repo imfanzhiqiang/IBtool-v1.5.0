@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u281_div {
+#u2_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -29,21 +29,21 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u281 {
+#u2 {
   position:absolute;
   left:128px;
   top:96px;
   width:441px;
   height:47px;
 }
-#u282 {
+#u3 {
   position:absolute;
   left:2px;
   top:14px;
   width:437px;
   word-wrap:break-word;
 }
-#u283_div {
+#u4_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -58,7 +58,7 @@
   box-shadow:none;
   text-align:left;
 }
-#u283 {
+#u4 {
   position:absolute;
   left:128px;
   top:164px;
@@ -66,7 +66,7 @@
   height:40px;
   text-align:left;
 }
-#u283_div.mouseOver {
+#u4_div.mouseOver {
   position:absolute;
   left:0px;
   top:0px;
@@ -81,16 +81,16 @@
   box-shadow:none;
   text-align:left;
 }
-#u283.mouseOver {
+#u4.mouseOver {
 }
-#u284 {
+#u5 {
   position:absolute;
   left:2px;
   top:10px;
   width:930px;
   word-wrap:break-word;
 }
-#u285_div {
+#u6_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -105,7 +105,7 @@
   box-shadow:none;
   text-align:left;
 }
-#u285 {
+#u6 {
   position:absolute;
   left:128px;
   top:214px;
@@ -113,7 +113,7 @@
   height:40px;
   text-align:left;
 }
-#u285_div.mouseOver {
+#u6_div.mouseOver {
   position:absolute;
   left:0px;
   top:0px;
@@ -128,16 +128,16 @@
   box-shadow:none;
   text-align:left;
 }
-#u285.mouseOver {
+#u6.mouseOver {
 }
-#u286 {
+#u7 {
   position:absolute;
   left:2px;
   top:10px;
   width:930px;
   word-wrap:break-word;
 }
-#u287_div {
+#u8_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -151,14 +151,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u287 {
+#u8 {
   position:absolute;
   left:128px;
   top:288px;
   width:113px;
   height:20px;
 }
-#u288 {
+#u9 {
   position:absolute;
   left:0px;
   top:0px;
