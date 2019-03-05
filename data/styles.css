@@ -3,9 +3,12 @@
   font-weight:400;
   font-style:normal;
   font-size:14px;
+  letter-spacing:normal;
   color:#333333;
+  vertical-align:none;
   text-align:center;
   line-height:normal;
+  text-transform:none;
 }
 .box_1 {
 }
@@ -75,6 +78,11 @@
 ._文本段落 {
   text-align:left;
 }
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
 .line {
 }
 .text_field {
@@ -126,3 +134,4 @@
 }
 .table_cell {
 }
+textarea, select, input, button { outline: none; }
