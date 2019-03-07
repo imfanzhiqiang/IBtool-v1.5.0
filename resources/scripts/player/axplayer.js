@@ -992,15 +992,6 @@ var iphoneXFirstPass = true;
             prevScaleN: prevScaleN
         };
         repositionPinsOnScaleChange(mainPanelScale);
-
-        if (scaleVal == '0') {
-            //Remove view in hash string if one is set
-            $axure.player.deleteVarFromCurrentUrlHash(SCALE_VAR_NAME);
-        } else if (typeof scaleVal !== 'undefined') {
-            //Set current view in hash string so that it can be maintained across reloads
-            $axure.player.setVarInCurrentUrlHash(SCALE_VAR_NAME, scaleVal);
-        }
-
         repositionClippingBoundsScroll();
 
         if (scaleVal == '0' && clipToView) $('#mainPanel').css('overflow', 'auto');
